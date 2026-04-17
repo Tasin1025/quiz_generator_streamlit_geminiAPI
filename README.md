@@ -1,6 +1,7 @@
 # Quiz Generator Streamlit App
 
 A Streamlit-based web app that generates notes, audio transcription, and quizzes from uploaded images.
+
 Live URL: https://quiz-generator-tasin.streamlit.app/
 
 ## Features
